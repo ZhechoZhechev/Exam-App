@@ -1,1 +1,1 @@
-Regular DevOps Sofuni exam
+Regular DevOps Sofuni examination
