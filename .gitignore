@@ -16,4 +16,9 @@ lerna-debug.log*
 .pnpm-debug.log*
 
 
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
 bower_components
