@@ -29,3 +29,8 @@ bower_components
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
